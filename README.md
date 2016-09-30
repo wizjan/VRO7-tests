@@ -1,6 +1,6 @@
-vFLOWer Toolkit
+vFLOWer Toolkit -tests to use it with VRO 7.*
 ============================
-*Created by ByteLife Solutions*
+*Created by ByteLife Solutions - modified by wizjan*
 
 
 <h4>1. OVERVIEW</h4>
